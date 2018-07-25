@@ -3,8 +3,9 @@ let answer = new Date() .getHours() + 5
 return answer 
 }
 
-function discountTicket() {
-  let discountedTicket = .8 * 
+function discountTicket(total) {
+  let discountedTicket = .2 * total
+  return total - discountedTicket
 }
 
 
