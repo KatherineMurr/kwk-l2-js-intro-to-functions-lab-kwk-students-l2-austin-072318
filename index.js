@@ -4,7 +4,7 @@ return answer
 }
 
 function discountTicket() {
-  let discountedTicket = 
+  let discountedTicket = .8 * 
 }
 
 
