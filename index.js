@@ -1,3 +1,3 @@
-function newTime()
+function getUKTime()
 
 
